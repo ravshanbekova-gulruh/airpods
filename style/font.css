@@ -12,3 +12,7 @@
     font-family: 'MR';
     src: url(../fonts/Montserrat-Regular.ttf);
 }
+@font-face {
+    font-family: 'Prosto one';
+    src: url(../fonts/ProstoOne-Regular.ttf);
+}
