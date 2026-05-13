@@ -41,6 +41,13 @@ body {
     align-items: center;
 }
 
+.category__content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+
 .header__nav {
     display: flex;
     gap: 30px;
